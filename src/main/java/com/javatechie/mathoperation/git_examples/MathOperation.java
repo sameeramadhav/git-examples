@@ -9,6 +9,8 @@ public class MathOperation {
 		System.out.println("Subtraction =" + sub.difference());
 		Multiply multiply = new Multiply(10, 10);
 		System.out.println("Multiplication =" + multiply.product());
+		Divide divide = new Divide(10,5);
+		System.out.println("Division =" + divide.quotient());
 	}
 
 }
