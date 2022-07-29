@@ -11,6 +11,8 @@ public class MathOperation {
 		System.out.println("Multiplication =" + multiply.product());
 		Divide divide = new Divide(10,5);
 		System.out.println("Division =" + divide.quotient());
+		Average average = new Average(10,10,10);
+		System.out.println("Average =" + average.average());
 	}
 
 }
