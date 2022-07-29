@@ -10,8 +10,8 @@ public class Multiply {
 		this.value2 = value2;
 
 	}
-	
+
 	public int product() {
-		return value2*value1;
+		return value2 * value1;
 	}
 }
