@@ -13,7 +13,7 @@ public class Average {
 
 	}
 
-	public int average() {
+	public int getAverage() {
 		return (value1 + value2 + value3)/3;
 	}
 }
