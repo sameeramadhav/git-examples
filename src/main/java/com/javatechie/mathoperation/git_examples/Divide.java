@@ -1,3 +1,5 @@
+package com.javatechie.mathoperation.git_examples;
+
 public class Divide {
 
 	private int value1;
